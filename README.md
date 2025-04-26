@@ -50,7 +50,7 @@ endpoint-hardening/
 - Disabled unnecessary services like SMBv1 and RDP (if not required).
 - Enabled system auditing and regular security patching.
 
-(Details are available in `windows_hardening_steps.md`)
+(Details are available in `[Windows Hardening Steps](windows_hardening_steps.md)`)
 
 ---
 
