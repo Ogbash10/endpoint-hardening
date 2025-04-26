@@ -1,5 +1,5 @@
 ---
-# Endpoint Hardening Project (Linux & Windows)
+# Endpoint Hardening (Linux & Windows)
 
 ## Overview
 This project demonstrates the application of essential endpoint hardening techniques to secure both Linux and Windows systems against cyber threats. It is designed to help businesses and organizations strengthen their endpoints by reducing vulnerabilities, enforcing security policies, and protecting sensitive data.
