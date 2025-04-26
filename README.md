@@ -39,7 +39,7 @@ endpoint-hardening/
 - Configured password and account policies.
 - Implemented Rootkit Hunter scanning.
 
-(Details are available in `linux_hardening_steps.md`)
+(Details are available in [Windows Hardening Steps](windows_hardening_steps.md))
 
 ---
 
