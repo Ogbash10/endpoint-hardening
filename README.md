@@ -26,6 +26,10 @@ endpoint-hardening/
 ```
 
 ---
+## Project Files:
+- [Linux Hardening Steps](linux_hardening_steps.md)
+- [Windows Hardening Steps](windows_hardening_steps.md)
+
 
 ## Linux Hardening Highlights
 - Enabled UFW firewall with strict rules.
