@@ -39,7 +39,7 @@ endpoint-hardening/
 - Configured password and account policies.
 - Implemented Rootkit Hunter scanning.
 
-(Details are available in [Windows Hardening Steps](windows_hardening_steps.md))
+(Details are available in [Linux Hardening Steps](linux_hardening_steps.md))
 
 ---
 
@@ -50,7 +50,7 @@ endpoint-hardening/
 - Disabled unnecessary services like SMBv1 and RDP (if not required).
 - Enabled system auditing and regular security patching.
 
-(Details are available in `[Windows Hardening Steps](windows_hardening_steps.md)`)
+(Details are available in [Windows Hardening Steps](windows_hardening_steps.md))
 
 ---
 
